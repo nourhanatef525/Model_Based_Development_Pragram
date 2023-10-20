@@ -1,0 +1,16 @@
+For the constant block :
+we add a constant block with any value I want to generate a constant signal(inputs) and using it in any operations,eg.(sum, product,subtract,...).
+
+For the display block :
+by adding the display block we can visualise and see the result by displaying the signal I  was entered.
+
+
+For the sum block :
+the sum block is used to add or subtract the signal inputs(we can specify the number of signals we want to sum).
+
+For the product block :
+as we entered the product block, we can multiply the input signals together (we can specify the number of inputs we want to multiply)
+
+
+For the gain block :
+the gain block is similar to the product block but it's value is constant, so by using the gain block we can multiply the input signals by a constant factor. 
